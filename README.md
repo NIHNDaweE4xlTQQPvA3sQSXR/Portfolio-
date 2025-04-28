@@ -75,7 +75,7 @@ portfolio draft
   <div class="section" id="contact">
     <h2>Contact</h2>
     <p>Interested in working together? Email me at:</p>
-    <p><a href="mailto: ohezy19@gmail.com">/p>
+    <p><a href="mailto: ohezy19@gmail.com">
   </div>
 </body>
 </html>
